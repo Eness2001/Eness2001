@@ -1,16 +1,14 @@
-## Hi there 👋
+# Merhaba, Ben Enes 👋
 
-<!--
-**Eness2001/Eness2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bir web geliştiricisiyim. Aşağıda bazı bilgiler bulabilirsiniz:
 
-Here are some ideas to get you started:
+## Hakkımda
+- 🌱 Şu anda öğreniyorum: **React, Next.js, Node.js, TypeScript**
+- 💼 Tam zamanlı çalışıyorum: **[Teamstech]**
+- 🎯 Odak alanlarım: **Ön uç geliştirme, API entegrasyonu**
+- 💬 Bana şuradan ulaşabilirsiniz: [[LinkedIn Profiliniz](https://www.linkedin.com/in/enes-kutulman-b1208a200/)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## İletişim
+- 📫 E-posta: [eneskutulman4@gmaıl.com](mailto:eneskutulman4@gmaıl.com)
+- 💼 Portfolyo: [Kişisel Web sitem](www.eneskutulman.com)
