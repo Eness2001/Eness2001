@@ -4,7 +4,7 @@ Bir web geliştiricisiyim. Aşağıda bazı bilgiler bulabilirsiniz:
 
 ## Hakkımda
 - 🌱 Uzmanlaştığım Teknolojıler: **React, Next.js, Node.js, TypeScript**
-- 💼 Tam zamanlı çalışıyorum: **[Teamstech]**
+- 💼 Freelance Çalışıyorum
 - 🎯 Odak alanlarım: **Ön uç geliştirme, API entegrasyonu**
 - 💬 Bana şuradan ulaşabilirsiniz: [[LinkedIn Profiliniz](https://www.linkedin.com/in/enes-kutulman-b1208a200/)]()
 
